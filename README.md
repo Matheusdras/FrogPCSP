@@ -42,3 +42,18 @@ Frog Propeptide Cleavage Site Predictor (FrogPCSP)
 ### General bioinformatics workflows
 [![SeqKit](https://img.shields.io/conda/vn/bioconda/seqkit?label=SeqKit)](https://anaconda.org/bioconda/seqkit)
 [![gzip](https://img.shields.io/conda/vn/conda-forge/gzip?label=gzip)](https://anaconda.org/conda-forge/gzip)
+
+
+## Usage
+```chmod +x scripts/FrogPCSP.sh```
+```Usage: scripts/FrogPCSP.sh <input.fasta>```
+
+
+## License and Copyright
+
+© [2025] [USP]. All rights reserved.
+
+This project is licensed under the [MIT License](LICENSE), unless otherwise stated.  
+You are free to use, modify, and distribute this software in accordance with the license terms.
+
+Please cite appropriately if you use this code or results in your research.
