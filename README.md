@@ -1,7 +1,7 @@
 # FrogPCSP
 Frog Propeptide Cleavage Site Predictor (FrogPCSP)
 
-# Software & Tools Used in This Study
+# Software & Tools
 
 ### Data acquisition & parsing
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
@@ -39,13 +39,14 @@ Frog Propeptide Cleavage Site Predictor (FrogPCSP)
 
 ---
 
-### General bioinformatics workflows
+### General bioinformatics
 [![SeqKit](https://img.shields.io/conda/vn/bioconda/seqkit?label=SeqKit)](https://anaconda.org/bioconda/seqkit)
 [![gzip](https://img.shields.io/conda/vn/conda-forge/gzip?label=gzip)](https://anaconda.org/conda-forge/gzip)
 
 
 ## Usage
 ```chmod +x scripts/FrogPCSP.sh```
+
 ```Usage: scripts/FrogPCSP.sh <input.fasta>```
 
 
