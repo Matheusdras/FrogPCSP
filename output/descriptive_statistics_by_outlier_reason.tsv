@@ -1,0 +1,4 @@
+	Isoelectric_Point	Isoelectric_Point	Isoelectric_Point	Isoelectric_Point	Isoelectric_Point	Isoelectric_Point	Amphipathicity	Amphipathicity	Amphipathicity	Amphipathicity	Amphipathicity	Amphipathicity	Net_Charge	Net_Charge	Net_Charge	Net_Charge	Net_Charge	Net_Charge	Molecular_Weight	Molecular_Weight	Molecular_Weight	Molecular_Weight	Molecular_Weight	Molecular_Weight
+	count	mean	std	min	median	max	count	mean	std	min	median	max	count	mean	std	min	median	max	count	mean	std	min	median	max
+OUTLIER_REASON																								
+abs_residual_z >= 1.5	172	10.232441860465116	1.9182959885075095	4.21	11.0	11.17	172	12.779709302325582	1.925987383235102	6.69	13.56	13.57	172	3.0372674418604655	1.1978724211756862	-0.01	2.99	8.03	172	2224.0551744186046	832.25645574288	502.53	2157.7	8993.15
