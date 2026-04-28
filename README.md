@@ -45,6 +45,11 @@ Frog Propeptide Cleavage Site Predictor (FrogPCSP)
 
 
 ## Usage
+
+```conda env create -f environment.yml```
+
+``` conda activate frogpcsp```
+
 ```chmod +x scripts/FrogPCSP.sh```
 
 ```Usage: scripts/FrogPCSP.sh <input.fasta>```
